@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichalKoder
-- 👀 I’m interested in web apps development, databases, REST-APIs and only a little bit of frontend.
+- 👀 I’m interested in web apps development
 - From time to time I love to `unwind` doing some CRUD-less small apps
 - 🌱 I’m currently learning e-commerce online store platforms
 - 💞️ I’m looking to collaborate on some original and useful app...
